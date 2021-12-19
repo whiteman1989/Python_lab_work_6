@@ -1,0 +1,1 @@
+print("Результат:", [int(str(i)+str(j)) for i in range(8) for j in range(8)])
