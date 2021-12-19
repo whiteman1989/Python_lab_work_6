@@ -3,3 +3,11 @@
 
 ## Рузультати виконання програми
 ![6-1 result](https://github.com/whiteman1989/Python_lab_work_6/blob/master/images/work_res_6-1.jpg?raw=true)
+
+# Лабораторна робта №6-3
+- За допомогою генераторної функції та **yield** написати код для генерації кубів серії чисел з плином часу. Вивести № сгенерованих чисел.
+
+Де №- остання цифра номеру студента у списку групи.
+
+## Рузультати виконання програми
+![6-3 result](https://github.com/whiteman1989/Python_lab_work_6/blob/master/images/work_res_6-3.jpg?raw=true)
